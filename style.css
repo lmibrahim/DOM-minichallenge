@@ -1,0 +1,45 @@
+.new-total {
+  font-weight: bolder;
+}
+
+button {
+  background-color: aqua;
+  padding: 10px;
+}
+
+.first-challenge {
+  margin-top: 10px;
+}
+
+.second-challenge {
+  margin-top: 30px;
+}
+
+/* .circle-coin {
+  background-color: gray;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+.light-bulb {
+  background-color: gray;
+  width: 10%;
+  padding: 10px;
+  margin: 5px;
+}
+
+.alternate {
+  background-color: yellow;
+}
+
+.turnedoff {
+  background-color: gray;
+}
+
+.disappear {
+  display: none;
+}
